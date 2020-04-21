@@ -18,5 +18,5 @@
     "e2e-test/**/*",
     "dist/**/*"
   ],
-  "_comment": "The watchtower app contains typescript errors"
+  "_comment": "The files library contains typescript errors"
 }
