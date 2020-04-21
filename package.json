@@ -1,6 +1,6 @@
 {
   "name": "@w3f/files",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "File management",
   "repository": "git@github.com:w3f/files-ts.git",
   "author": "W3F Infrastructure Team <devops@web3.foundation>",
@@ -16,7 +16,6 @@
     "start": "node ./dist/index.js start"
   },
   "dependencies": {
-    "commander": "^4.0.0",
     "fs-extra": "^8.1.0",
     "js-yaml": "^3.13.1"
   },
