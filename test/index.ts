@@ -1,7 +1,7 @@
 import fs from 'fs-extra';
 import tmp from 'tmp';
 
-import { Files } from '../src/files';
+import { Files } from '../src/index';
 
 import { should } from 'chai';
 
